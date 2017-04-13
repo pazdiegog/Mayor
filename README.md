@@ -6,7 +6,7 @@
 
 ---a---b--->(P)---mayor--->
 
-a,b ϵ R.
+a,b,mayor ϵ R.
 
 *Algoritmo:
 
